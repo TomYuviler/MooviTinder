@@ -15,7 +15,7 @@ By setting the origin point (coordinates: logintude and latitude) and the destin
 The final results are showed to the user, with detailes regarding each phase. The results are sorted (ascended order) by the overall travel time (in minutes). 
 ![Screenshot](results_to_user.png)
 ## Tinder mode
-By activate Tinder mode (Tinder Mode (parameter) = ON), the user will be able to see other users that entered a nearby destination (distance betweent destinations < 1000 meter) to the apllication. The user will be able to see the name, age and a link to the Instagram page of other users. It will be noted, that the apllication will only show users which entered their destination in the same day (as the "main" user).
+By activate Tinder mode (Tinder Mode (parameter) = ON), the user will be able to see other users that entered a nearby destination (distance between destinations < 1000 meter) to the apllication. The user will be able to see the name, age and a link to the Instagram page of other users. It will be noted, that the apllication will only show users which entered their destination in the same day (as the "main" user).
 
 
 
