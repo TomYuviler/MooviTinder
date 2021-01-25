@@ -2,7 +2,7 @@
 # MooviTinder
 MooviTinder Apllication - Tom Yuviler &amp; Lidor Asulin - Technion
 
-## Overview
+# Overview
 The MooviTinde application hepls the user to finde the fastest possible way to get from  an origin point in Dublin and to get to the desiered desteniation (in Dublin) by using Dublin bus. By activate the Tinder Mode, the user will be able to see other users that chose neraby destination.
 
 ## Find the fastest possible way
@@ -17,6 +17,9 @@ The final results are showed to the user, with detailes regarding each phase. Th
 ## Tinder mode
 By activate Tinder mode (Tinder Mode (parameter) = ON), the user will be able to see other users that entered a nearby destination (distance between destinations < 1000 meter) to the apllication. The user will be able to see the name, age and a link to the Instagram page of other users. It will be noted, that the apllication will only show users which entered their destination in the same day (as the "main" user).
 ![Screenshot](results_tinder_mode.png)
+
+# How to use the apllication?
+
 
 
 
