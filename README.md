@@ -20,13 +20,13 @@ By activate Tinder mode (Tinder Mode (parameter) = ON), the user will be able to
 
 # How to use the apllication?
 In order to use the apllication you need to use Databricks (see further details **here (add link)**. You can choose whether to use the apllication with streaming data or batch data. In both cases, the user need to set the parameters:
-1. **Tinder Mode:** determine whether to see nearby users (ON) or not (OFF).
-2. **date & time:** the "current" time in format YYY-MM-dd hh:mm:ss (*IMPORTANT:* please enter time between July 2017 and September 2018)
-3. **origin latitude:** the latitude (coordinates) of the *origin point*
-4. **longitude latitude:** the longitude (coordinates) of the *origin point*
-5. **destination latitude:** the latitude (coordinates) of the *destination point*
-6. **destination latitude:** the longitude (coordinates) of the *destination point*
-7. **kafka server ip:** he ip of the kafka server (*IMPORTANT:* relevant only for the streaming version application)
+1. **Tinder Mode:** determine whether to see nearby users (ON) or not (OFF). *DEAFULT:* ON
+2. **date & time:** the "current" time in format YYY-MM-dd hh:mm:ss (*IMPORTANT:* please enter time between July 2017 and September 2018). *DEAFULT:* 2017-07-03 17:00:00 
+3. **origin latitude:** the latitude (coordinates) of the *origin point*. *DEAFULT:* 53.37090049386957
+4. **origin longitude:** the longitude (coordinates) of the *origin point*. *DEAFULT:* -6.275353116570684
+5. **destination latitude:** the latitude (coordinates) of the *destination point*. *DEAFULT:* 53.34506360456374
+6. **destination longitude:** the longitude (coordinates) of the *destination point*. *DEAFULT:* -6.2658641091910585
+7. **kafka server ip:** he ip of the kafka server (*IMPORTANT:* relevant only for the streaming version of the apllication application). *DEAFULT:* 10.0.0.30:9091
 ## Streaming version - apllication
 https://eastus.azuredatabricks.net/?o=6694791539123117#notebook/2483473424244307/dashboard/2097931246199384/present
 
