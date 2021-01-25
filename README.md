@@ -11,6 +11,7 @@ By setting the origin point (coordinates: logintude and latitude) and the destin
 2. **Waiting time in the bus station:** The calculations of the waiting time in the bus station is based on streaming/online data - for each journey pattern of each bus line the apllication finds the last stop of the bus, and the time that passed from the stop, and integrate it with the estimation of the travel time between two bus stations (based on offline data - read from Elasticsearch - see part 3). 
 3. **Travel time between two bus stations:** The application estimates the travel time for each journey pattern of each bus line between each two possible bus statstions. In order to calculate that, it uses offline/batch data, by finding the median of the relevent (previous) travel times, considering the day of week and the part of the day (e.g. Monday morning). The estimations are stored in the Elasticsearch platform.
 3. **Walking time from the bus stop to the destination point:** as in bullet #1, the apllication estimates the walking time from the bus station to the destination point according to the assumption of walking speed of 1 m/s.
+
 The final results are showed to the user, with detailes regarding each phase. The results are sorted (ascended order) by the overall travel time (in minutes). 
 
 
