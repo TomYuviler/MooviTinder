@@ -30,9 +30,7 @@ In order to use the application you need to use Databricks (see further details 
 
 *NOTE:* after setting the parameters, you need to click on the blue <ins>*Update*</ins> button in the top right corner of the application.
 ## Streaming version - application
-https://eastus.azuredatabricks.net/?o=6694791539123117#notebook/2483473424244307/dashboard/2097931246199384/present
-
-
+https://eastus.azuredatabricks.net/?o=6694791539123117#notebook/2483473424244307/dashboard/3213778479524682/present
 
 
 
