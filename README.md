@@ -22,11 +22,12 @@ By activate Tinder mode (Tinder Mode (parameter) = ON), the user will be able to
 In order to use the apllication you need to use Databricks (see further details **here (add link)**. You can choose whether to use the apllication with streaming data or batch data. In both cases, the user need to set the parameters:
 1. **Tinder Mode:** determine whether to see nearby users (ON) or not (OFF).
 2. **date & time:** the "current" time in format YYY-MM-dd hh:mm:ss (*IMPORTANT:* please enter time between July 2017 and September 2018)
-3. **origin latitude:** the latitude (coordinate) of the *origin point*
-4. **longitude latitude:** the longitude (coordinate) of the *origin point*
-3. **destination latitude:** the latitude (coordinate) of the *destination point*
-4. **destination latitude:** the longitude (coordinate) of the *destination point*
-## Streaming
+3. **origin latitude:** the latitude (coordinates) of the *origin point*
+4. **longitude latitude:** the longitude (coordinates) of the *origin point*
+5. **destination latitude:** the latitude (coordinates) of the *destination point*
+6. **destination latitude:** the longitude (coordinates) of the *destination point*
+7. **kafka server ip:** he ip of the kafka server (*IMPORTANT:* relevant only for the streaming version application)
+## Streaming version - apllication
 https://eastus.azuredatabricks.net/?o=6694791539123117#notebook/2483473424244307/dashboard/2097931246199384/present
 
 
