@@ -35,6 +35,11 @@ https://eastus.azuredatabricks.net/?o=6694791539123117#notebook/2483473424244307
 ## Batch version - application
 https://eastus.azuredatabricks.net/?o=6694791539123117#notebook/3213778479524757/dashboard/3213778479524820/present
 
+# Source code
+- You can find the source code for the batch version and the streaming version in this repository as ipnb notebooks. 
+- You can run the notebookes directly from databricks.
+
+
 
 
 
