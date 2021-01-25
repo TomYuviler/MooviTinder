@@ -14,6 +14,7 @@ By setting the origin point (coordinates: logintude and latitude) and the destin
 
 The final results are showed to the user, with detailes regarding each phase. The results are sorted (ascended order) by the overall travel time (in minutes). 
 ![Screenshot](results_to_user.png)
+## Tinder mode
 
 
 
