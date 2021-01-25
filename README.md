@@ -19,6 +19,9 @@ By activate Tinder mode (Tinder Mode (parameter) = ON), the user will be able to
 ![Screenshot](results_tinder_mode.png)
 
 # How to use the apllication?
+In order to use the apllication you need to use Databricks (see further details **here (add link)**. You can choose whether to use the apllication with streaming data or batch data.
+## Streaming
+
 
 
 
