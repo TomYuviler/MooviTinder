@@ -13,6 +13,7 @@ By setting the origin point (coordinates: logintude and latitude) and the destin
 3. **Walking time from the bus stop to the destination point:** as in bullet #1, the apllication estimates the walking time from the bus station to the destination point according to the assumption of walking speed of 1 m/s.
 
 The final results are showed to the user, with detailes regarding each phase. The results are sorted (ascended order) by the overall travel time (in minutes). 
+![Screenshot](results_to_user.png)
 
 
 
