@@ -27,6 +27,8 @@ In order to use the apllication you need to use Databricks (see further details 
 5. **destination latitude:** the latitude (coordinates) of the *destination point*. *DEAFULT:* 53.34506360456374
 6. **destination longitude:** the longitude (coordinates) of the *destination point*. *DEAFULT:* -6.2658641091910585
 7. **kafka server ip:** he ip of the kafka server (*IMPORTANT:* relevant only for the streaming version of the apllication application). *DEAFULT:* 10.0.0.30:9091
+
+*NOTE:* after setting the parameters, you need to click on the bluer *Update* button in the top right corner of the apllication.
 ## Streaming version - apllication
 https://eastus.azuredatabricks.net/?o=6694791539123117#notebook/2483473424244307/dashboard/2097931246199384/present
 
