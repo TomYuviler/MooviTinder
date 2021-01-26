@@ -36,7 +36,7 @@ https://eastus.azuredatabricks.net/?o=6694791539123117#notebook/2483473424244307
 https://eastus.azuredatabricks.net/?o=6694791539123117#notebook/3213778479524757/dashboard/3213778479524820/present
 
 # Source code
-- You can find [here](https://www.google.com) the source code for the batch version and the streaming version as ipnb notebooks. 
+- You can find [here](https://github.com/TomYuviler/MooviTinder/tree/main/code) the source code for the batch version and the streaming version as ipnb notebooks. 
 - You can run the notebooks directly from databricks.
 
 
