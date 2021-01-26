@@ -19,7 +19,7 @@ By activate Tinder mode (Tinder Mode (parameter) = ON), the user will be able to
 ![Screenshot](results_tinder_mode.png)
 
 # How to use the application?
-In order to use the application you need to use Databricks (see further details **here (add link)**. You can choose whether to use the application with streaming data or batch data. In both cases, the user need to set the parameters:
+In order to use the application you need to use Databricks. You can choose whether to use the application with streaming data or batch data. In both cases, the user need to set the parameters:
 1. **Tinder Mode:** determine whether to see nearby users (ON) or not (OFF). *DEAFULT:* ON
 2. **date & time:** the "current" time in format YYY-MM-dd hh:mm:ss (*IMPORTANT:* please enter time between July 2017 and September 2018). *DEAFULT:* 2017-07-03 17:00:00 
 3. **origin latitude:** the latitude (coordinates) of the *origin point*. *DEAFULT:* 53.37090049386957
@@ -37,7 +37,7 @@ https://eastus.azuredatabricks.net/?o=6694791539123117#notebook/3213778479524757
 
 # Source code
 - You can find the source code for the batch version and the streaming version in this repository as ipnb notebooks. 
-- You can run the notebookes directly from databricks.
+- You can run the notebooks directly from databricks.
 
 
 
