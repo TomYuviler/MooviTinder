@@ -1,4 +1,4 @@
-![Screenshot](logo.png)
+![Screenshot](images/logo.png)
 # MooviTinder
 MooviTinder Application - Tom Yuviler (tom.yuviler@campus.technion.ac.il) & Lidor Asulin (lidor.asulin@campus.technion.ac.il) - Technion
 
