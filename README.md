@@ -13,10 +13,10 @@ By setting the origin point (coordinates: longitude  and latitude) and the desti
 3. **Walking time from the bus stop to the destination point:** as in bullet #1, the application estimates the walking time from the bus station to the destination point according to the assumption of walking speed of 1 m/s.
 
 The final results are showed to the user, with details regarding each phase. The results are sorted (ascended order) by the overall travel time (in minutes). 
-![Screenshot](results_to_user.png)
+![Screenshot](images/results_to_user.png)
 ## Tinder mode
 By activate Tinder mode (Tinder Mode (parameter) = ON), the user will be able to see other users that entered a nearby destination (distance between destinations < 1000 meter) to the application. The user will be able to see the name, age and a link to the Instagram page of other users. It will be noted, that the application will only show users which entered their destination in the same day (as the "main" user).
-![Screenshot](results_tinder_mode.png)
+![Screenshot](images/results_tinder_mode.png)
 
 # How to use the application?
 In order to use the application you need to use Databricks. You can choose whether to use the application with streaming data or batch data. In both cases, the user need to set the parameters:
